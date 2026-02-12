@@ -1,2 +1,1 @@
-# scifantasy_homebrew
- Scifantasy homebrew module for FVTT
+# fvtt-the-icarian-cloud
