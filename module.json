@@ -92,7 +92,7 @@
         },
         {
           "name": "abilities",
-          "label": "abilities",
+          "label": "Abilities",
           "path": "packs/abilities",
           "type": "Item",
           "ownership": {
