@@ -1,4 +1,4 @@
-Hooks.once("init", () => {
+Hooks.on("init", async () => {
   //adding new skills
 
   CONFIG.DND5E.skills.pil = {
