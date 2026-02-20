@@ -28,5 +28,12 @@ export const loadEdits = function () {
     icon: "",
   };
 
+  CONFIG.DND5E.currencies.cr = {
+    label: "Credits",
+    abbreviation: "₡",
+    conversion: 100,
+    icon: "modules/scifantasy_homebrew/assets/icons/pixelart/digital_currency.webp"
+  }
+
 }
 
