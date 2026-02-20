@@ -1,5 +1,4 @@
-Hooks.on("init", async () => {
-  //adding new skills
+export const loadEdits = function () {
 
   CONFIG.DND5E.skills.pil = {
     label: "Piloting",
@@ -29,4 +28,5 @@ Hooks.on("init", async () => {
     icon: "",
   };
 
-});
+}
+
